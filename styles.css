@@ -1,0 +1,47 @@
+/*-------------------------------------teg selector-------------------------------------*/
+body {
+  text-indent: 20px;
+  background-color: #98FB98}
+hr{
+  border-color: #FFDAB9;
+  border-width: 2px;
+  border-style: dashed none none;
+  /* //or border-style: none;
+  border-top-style: dashed;*/
+}
+img{
+  width:23%;
+  height:23%;
+}
+/*-------------------------------------class selector-------------------------------------*/
+.red {
+  color:red;
+}
+.bgblack {
+  background-color: black;
+}
+/*-------------------------------------id selector-------------------------------------*/
+#gr {
+  color: #008000;
+  text-decoration: underline;
+}
+#white {
+  color:white;
+}
+#blue {
+  color:#000080;
+}
+/*-------------------------------------pseudo-class selector-------------------------------------*/
+p:hover{
+  background-color: white;
+}
+/*p {
+  font-family: "Times New Roman", Times, serif;
+}*/
+
+.wer{
+  color:white;
+}
+p{
+  color:yellow;
+}
